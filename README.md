@@ -10,8 +10,10 @@ This project required its students to create a custom landing page from scratch 
 # Page User Interaction
 This page contains a user interaction where the user will be prompted when they click the 'Share Your Reason' button.
 ![image](https://github.com/shahirahzaki/Landing-Page/assets/93130935/4d1b4398-1c8f-4aff-8fd8-d980968e98db)
+
 If the user enters null, then the prompt will show
 ![image](https://github.com/shahirahzaki/Landing-Page/assets/93130935/bfa95abb-53db-4eb7-bb0a-ad2cedcb411f)
+
 This prompt will pop up until the user enters a valid reason. For example,
 ![image](https://github.com/shahirahzaki/Landing-Page/assets/93130935/ca4444ce-3a3e-4947-a94f-7a6fc2ccacd1)
 
