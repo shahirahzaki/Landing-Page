@@ -1,5 +1,5 @@
 # Landing-Page
-This repository containing the code for a custom interactive landing page I created for the final project for SheCodes Basics Workshop on June 2024. This project is a prerequisite for the workshop. When completed, a certificate is awarded to signify the completion of the workshop. This landing page was made purely using HTML5, CSS and Javascript.
+This repository contains the code for a custom interactive landing page I created for the final project of SheCodes Basics Workshop on June 2024. This project is a prerequisite for the workshop and when completed, a certificate is awarded to the student. This landing page was made purely using HTML5, CSS and Javascript.
 
 # Project Requirements
 This project required its students to create a custom landing page from scratch about something they're passionate about. In my case, I made the landing page about reading books. The page must also include a user interaction.
@@ -20,3 +20,5 @@ This prompt will pop up until the user enters a valid reason. For example,
 <br />
 ![image](https://github.com/shahirahzaki/Landing-Page/assets/93130935/ca4444ce-3a3e-4947-a94f-7a6fc2ccacd1)
 
+# Acknowledgements
+I would like to thank Matt Delac, the instructor of the workshop and founder of SheCodes Foundation. For anyone looking to learn HTML, CSS and Javascript, I would totally recommend SheCodes. More info  <a href="https://www.shecodes.io/workshops">here</a>
